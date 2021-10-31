@@ -1,0 +1,23 @@
+ABOUT
+CONTACT
+PROJECTS ( GITHUB SI LIVE )
+ ( 100% wide cu descriere )
+Curriculum Vitae ( posibilitate download CV )
+
+
+
+-CHESTII CU TRANZITII
+FEATURES: O animatie ceva cu numele meu sau ceva
+	 - Dreapta puncte cu care sa te plimbi la sectiuni / buton sa te duca sus
+	- Poza cu mine pana la sold si textul cu Ionut Gabriel sa apara dinspre dreapta sa se duca in mijloc
+	-Hamburger pe mobile/tableta
+	 
+
+Ionut Gabriel
+Front-end Web Developer, at your service
+
+Animatii pentru butoane ceva smooth
+
+Smooth scrolling neaparat
+
+Din JS - buton hover sa se faca A alb si background negru
